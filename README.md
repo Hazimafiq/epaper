@@ -9,3 +9,4 @@ php artisan serve
 create user and login to system
 on admin nav you will see epaper click on that and 
 go with the flow.
+# epaper
